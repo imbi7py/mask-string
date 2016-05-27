@@ -1,3 +1,9 @@
 *.pyc
 
 dist
+run.py
+.idea/encodings.xml
+.idea/mask-string.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
